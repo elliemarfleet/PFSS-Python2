@@ -26,6 +26,8 @@ If attempting to run the model, both files must exist in the same directory, and
 
 [UML.png](UML.png): the UML diagram associated with the project/code.
 
+[supportingdoc.docx](supportingdoc.docx): the supporting document giving context and supplementary information on the project.
+
 [LICENSE](LICENSE): this file outlines that the project has been licensed under the MIT License.
 
 
