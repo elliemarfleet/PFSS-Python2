@@ -44,10 +44,10 @@ f1.close()
 
 ## Check how the environment looks.
 """
-matplotlib.pyplot.xlim(0, 300)
-matplotlib.pyplot.ylim(0, 300)
-matplotlib.pyplot.imshow(environment)
-matplotlib.pyplot.show()
+plt.xlim(0, 300)
+plt.ylim(0, 300)
+plt.imshow(environment)
+plt.show()
 """    
 
 
@@ -99,7 +99,7 @@ plt.ylim(0, 300)
 plt.xlim(0, 300)
 # For the number of drunks, plot them on the density map
 for i in range(num_of_drunks):
-    plt.scatter(drunks[i].x,drunks[i].y, c="ivory", s=50)
+    plt.scatter(drunks[i].x,drunks[i].y, c="white", s=50)
 plt.imshow(density)
 
 
@@ -107,12 +107,13 @@ plt.imshow(density)
 """
 plt.xlim(0,300)
 plt.ylim(0,300)
-"""
+
 
 plt.imshow(environment)
 for i in range(num_of_drunks):
     plt.scatter(drunks[i].x,drunks[i].y)
 plt.show()
+"""
 
 
 # Save the density map to a text file
