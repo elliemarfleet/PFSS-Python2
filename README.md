@@ -24,6 +24,8 @@ If attempting to run the model, both files must exist in the same directory, and
 
 [drunk.plan.txt](drunk.plan.txt): a 300 x 300 town plan which is read into the environment.
 
+[UML.png](UML.png): the UML diagram associated with the project/code.
+
 [LICENSE](LICENSE): this file outlines that the project has been licensed under the MIT License.
 
 
