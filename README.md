@@ -4,7 +4,7 @@ Planning for drunks; Programming for Social Sciences (Python) Assignment 2.
 ## Introduction
 This repositary contains the final code produced for the second assignment in the 2020 module "Programming for Social Scientists: Core Skills in Python".
 
-The code produces an Agent-Based Model (ABM); simulating the behvaiour of 'drunks' as they move around in the virtual environment - the environment cosists of data which was read in using the [drunk.plan.txt](drunk.plan.txt) file in this repository. The simulation of agent behaviours was achieved through an object-orientated approach due to the production of the Agent class which defines the behaviours of all instances of the agent.
+The code produces an Agent-Based Model (ABM); simulating the behvaiour of 'drunks' as they move around in the virtual environment - the environment cosists of data which was read in using the [drunk.plan.txt](drunk.plan.txt) file in this repository. The simulation of agent behaviours was achieved through an object-orientated approach due to the production of the Drunk class which defines the behaviours of all instances of the agent.
 
 ## Repository contents
 
