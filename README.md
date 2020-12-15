@@ -36,5 +36,5 @@ python drunkmodel.py
 ```
 After running the model, the code will be produce an output of a [density.txt](density.txt) file in the same directory as your Python files. A figure (“Figure 1”) will also be produced as part of the output in a new pop-up window, showing the movement of the drunks through the environment before they reach their homes.
 
-Note: Matplotlib library needs to be installed prior to running the model if this has not been done in the past.
+*Note: Matplotlib library needs to be installed prior to running the model if this has not been done in the past.*
 
